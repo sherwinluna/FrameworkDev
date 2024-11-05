@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Django_Workspace\\marketplaceproj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB5E8B9-BACD-40EA-81C0-AB14242FA450}|marketplaceproj\\marketplaceproj.pyproj|C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4EB5E8B9-BACD-40EA-81C0-AB14242FA450}|marketplaceproj\\marketplaceproj.pyproj|solutionrelative:marketplaceproj\\marketplaceapp\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB5E8B9-BACD-40EA-81C0-AB14242FA450}|marketplaceproj\\marketplaceproj.pyproj|C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4EB5E8B9-BACD-40EA-81C0-AB14242FA450}|marketplaceproj\\marketplaceproj.pyproj|solutionrelative:marketplaceproj\\marketplaceapp\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB5E8B9-BACD-40EA-81C0-AB14242FA450}|marketplaceproj\\marketplaceproj.pyproj|C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\serializers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4EB5E8B9-BACD-40EA-81C0-AB14242FA450}|marketplaceproj\\marketplaceproj.pyproj|solutionrelative:marketplaceproj\\marketplaceapp\\serializers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\views.py",
+              "RelativeDocumentMoniker": "marketplaceproj\\marketplaceapp\\views.py",
+              "ToolTip": "C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\views.py",
+              "RelativeToolTip": "marketplaceproj\\marketplaceapp\\views.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-29T15:10:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "serializers.py",
+              "DocumentMoniker": "C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\serializers.py",
+              "RelativeDocumentMoniker": "marketplaceproj\\marketplaceapp\\serializers.py",
+              "ToolTip": "C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\serializers.py",
+              "RelativeToolTip": "marketplaceproj\\marketplaceapp\\serializers.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-29T15:09:01.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\models.py",
+              "RelativeDocumentMoniker": "marketplaceproj\\marketplaceapp\\models.py",
+              "ToolTip": "C:\\Development\\Django_Workspace\\marketplaceproj\\marketplaceproj\\marketplaceapp\\models.py",
+              "RelativeToolTip": "marketplaceproj\\marketplaceapp\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-29T15:08:52.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
